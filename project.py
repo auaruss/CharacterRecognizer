@@ -24,7 +24,7 @@ import numpy as np
 # Authors:
 #   Chase Abram
 #   Christopher Anthony
-#   Austin Russell
+#   Alice Russell
 
 class EmnistModelGenerator:
     """
